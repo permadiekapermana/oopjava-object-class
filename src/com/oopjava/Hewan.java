@@ -1,6 +1,7 @@
 package com.oopjava;
 
 public class Hewan {
+	
 	String nama;
 	String warna;
 	int umur;
